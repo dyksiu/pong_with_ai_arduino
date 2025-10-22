@@ -23,6 +23,7 @@ python.exe -m pip install --upgrade pip
 ```
 ### Required hardware:
 The game engine was written on Arduino Uno R3 which is connected to PC. Control is performed using a B10K potentiometer:
+
 ![schemat](https://github.com/user-attachments/assets/d00c0529-898a-42dc-9897-01b8086bc251)
 
 
